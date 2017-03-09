@@ -1,0 +1,12 @@
+{
+    "name": "previewtechs/bulkmail-gmail-smtp",
+    "authors": [
+        {
+            "name": "Preview Technologies",
+            "email": "info@previewtechs.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^5.2"
+    }
+}
